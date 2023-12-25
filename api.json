@@ -1,7 +1,4 @@
 {
-  "count": 1427,
-  "entries": [
-    {
       "API": "AdoptAPet",
       "Description": "Resource to help get pets adopted",
       "Auth": "apiKey",
@@ -12844,5 +12841,3 @@
       "Link": "https://yandex.com/dev/weather/",
       "Category": "Weather"
     }
-  ]
-}
